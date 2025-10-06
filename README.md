@@ -1,127 +1,102 @@
-# 👋 Hi, I'm [Bodke Sachin]!
+<h1 align="center">👋 Hi, I'm Sachin Bodke</h1>
 
-### Python Full Stack Developer | Data Analyst | Machine Learning Engineer
-
-Welcome to my GitHub portfolio! I'm a passionate developer with expertise in building robust web applications, extracting insights from data, and creating intelligent machine learning solutions. I love turning complex problems into elegant, efficient code.
-
----
-
-## 🚀 What I Do
-
-### 💻 Full Stack Development
-- **Backend**: Django, Flask, FastAPI, REST APIs
-- **Frontend**: React, JavaScript, HTML5, CSS3
-- **Databases**: PostgreSQL, MySQL, MongoDB, SQLite
-- **DevOps**: Docker, AWS, CI/CD, Linux
-
-### 📊 Data Analysis & Visualization
-- **Data Processing**: Pandas, NumPy, SQL
-- **Visualization**: Matplotlib, Seaborn, Plotly, Tableau
-- **BI Tools**: Power BI, Google Data Studio
-- **Statistical Analysis**: Hypothesis testing, A/B testing
-
-### 🤖 Machine Learning & AI
-- **ML Algorithms**: Regression, Classification, Clustering
-- **Deep Learning**: TensorFlow, Keras, PyTorch
-- **NLP**: NLTK, spaCy, Transformers
-- **Computer Vision**: OpenCV, YOLO, CNN architectures
+<p align="center">
+  🌐 <a href="https://bodkesachin7979.github.io/Sachin_Portfolio/">Visit My Portfolio</a> | 💼 Full-Stack Python Developer | 💡 AI Enthusiast
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-```python
-# My Tech Stack
-tech_stack = {
-    "languages": ["Python", "JavaScript", "SQL", "HTML/CSS"],
-    "backend": ["Django", "Flask", "FastAPI", "Node.js"],
-    "frontend": ["React", "Vue.js", "Bootstrap", "Tailwind CSS"],
-    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-    "data_science": ["Pandas", "NumPy", "Scikit-learn", "Jupyter"],
-    "ml_dl": ["TensorFlow", "PyTorch", "Keras", "OpenCV"],
-    "devops": ["Docker", "AWS", "Git", "Linux", "Nginx"],
-    "tools": ["Git", "Postman", "Tableau", "Power BI", "JIRA"]
-}
-```
+I'm a passionate **Full-Stack Python Developer** who loves transforming ideas into powerful digital solutions.  
+I focus on building intelligent, scalable, and user-friendly applications that make a real impact.
+
+- 🔭 Currently working on: **AI-powered real-time systems**
+- 🌱 Learning: **Advanced Flask, WebSockets, Tailwind CSS, and MLOps**
+- 💬 Ask me about: **Python, Flask, React, Machine Learning, and Full-Stack Development**
+- 🎯 Goal: To become an **industry-ready AI & Full-Stack Engineer**
+- ⚡ Fun fact: I love exploring new technologies, fitness, and traveling to peaceful destinations 🌍
 
 ---
 
-## 📈 Featured Projects
+### 🧠 Tech Stack
 
-### 🔥 [Project 1: AI-Powered E-commerce Platform](https://github.com/yourusername/project1)
-**Tech**: Django, React, PostgreSQL, TensorFlow
-- Built a recommendation engine with 95% accuracy
-- Implemented real-time analytics dashboard
-- Reduced page load time by 60%
+#### 💻 Languages
+`Python` `JavaScript` `HTML` `CSS` `SQL`
 
-### 📊 [Project 2: Sales Analytics Dashboard](https://github.com/yourusername/project2)
-**Tech**: Python, Dash, Plotly, PostgreSQL
-- Automated sales reporting for 10+ departments
-- Created interactive visualizations for business insights
-- Improved decision-making speed by 40%
+#### 🧩 Frameworks & Libraries
+`Flask` `React` `Tailwind CSS` `Bootstrap` `OpenCV` `TensorFlow` `Scikit-learn`
 
-### 🤖 [Project 3: Customer Churn Prediction](https://github.com/yourusername/project3)
-**Tech**: Scikit-learn, XGBoost, Flask, Docker
-- Developed ML model with 89% prediction accuracy
-- Deployed as microservice with REST API
-- Reduced customer churn by 25%
+#### 🗄️ Databases
+`PostgreSQL` `MongoDB` `SQLite`
+
+#### 🧰 Tools & Platforms
+`Git` `GitHub` `Docker` `VS Code` `PyCharm` `Firebase` `AWS`
 
 ---
 
-## 📊 GitHub Stats
+### 💡 Featured Projects
 
-<div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-</div>
-
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with FastAPI](https://yourblog.com/post1)
-- [Machine Learning Model Deployment Best Practices](https://yourblog.com/post2)
-- [Real-time Data Visualization with Python](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+#### 🧬 **1. Liver Cancer Detection (AI + Flask)**
+An AI-powered diagnostic web app that predicts liver cancer probability using medical attributes and ML models.
+- 🧠 Technologies: Flask, Python, Scikit-learn, HTML/CSS
+- ⚙️ Features: Data preprocessing, model prediction, interactive UI
+- 📂 [View Project Repository](#)
 
 ---
 
-## 🎯 Currently Learning
-
-- 🔬 Advanced Machine Learning Techniques
-- ☁️ AWS Cloud Architecture
-- ⚡ System Design & Scalability
-- 🧠 MLOps Practices
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinbodke432/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sachinbodek.dev@gmail.com)
-
-</div>
+#### 🧠 **2. Face Recognition System (Flask + FaceNet)**
+A smart authentication system using **FaceNet embeddings** for real-time identity verification.
+- 🔒 Technologies: Flask, OpenCV, FaceNet, SQLite, SQLAlchemy
+- 📸 Features: Live webcam capture, face embeddings, access verification, admin dashboard
+- 📂 [View Project Repository](#)
 
 ---
 
-<div align="center">
-
-### ⚡ Fun Fact:
-*When I'm not coding, you can find me [IN GYM] or exploring new technologies!*
-
-**Thanks for visiting!** 😊
-
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
-
-</div>
+#### 🗺️ **3. Tourister Guide (AI + Flask + Google Maps API)**
+An intelligent travel assistant that recommends places, plans itineraries, and provides weather & budget insights.
+- 🧭 Technologies: Flask, REST API, Google Maps API, Tailwind CSS
+- 💡 Features: Smart recommendations, real-time distance calculator, budget planner
+- 📂 [View Project Repository](#)
 
 ---
 
-*⭐ Don't forget to star the repositories you like!*
+### 🌟 Portfolio Highlights
+
+| Category | Description |
+|-----------|--------------|
+| 🎨 Frontend | Responsive and elegant UI with Tailwind CSS |
+| ⚙️ Backend | RESTful Flask APIs with secure authentication |
+| 🧩 Database | Integrated SQL & NoSQL for flexible data management |
+| 🔐 Security | JWT authentication, validation, and access control |
+| ☁️ Deployment | Dockerized and hosted on GitHub Pages / AWS |
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sachinbodke7979@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sachinbodke/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/BodkeSachin7979"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 🏆 Achievements & Goals
+
+- ✅ Built multiple **AI + Full Stack Projects**  
+- 🧑‍💻 Intern @ **Sciatus Research** as a Python Developer  
+- 🚀 Constantly improving in **AI Systems, Web Apps, and Automation**  
+- 📚 Working on becoming a **Tech Mentor & Open Source Contributor**
+
+---
+
+### 💬 Personal Quote
+
+> “Every line of code I write brings an idea to life — one project at a time.” ⚡
+
+---
+
+⭐ **If you like my portfolio or projects, don’t forget to give them a star!** ⭐  
+📍 _Made with ❤️ by [Sachin Bodke](https://bodkesachin7979.github.io/Sachin_Portfolio/)_
