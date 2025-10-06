@@ -285,12 +285,12 @@ body {
 }
 
 .project-image.python-fullstack#Tourister_Guide {
-  background-image: url("images/packyourbags.png");
+  background-image: url("portfolio/images/packyourbags.png");
   background-size: cover;
 }
 
 .project-image.machine-learning#GateAi {
-  background-image: url("images/GateAi.png");
+  background-image: url("portfolio/images/GateAi.png");
   background-size: cover;
 }
 
