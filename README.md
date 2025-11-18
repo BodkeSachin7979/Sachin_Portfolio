@@ -1,102 +1,207 @@
-<h1 align="center">👋 Hi, I'm Sachin Bodke</h1>
+# 🚀 Data Analyst Portfolio | Sachin Bodke
 
-<p align="center">
-  🌐 <a href="https://bodkesachin7979.github.io/Sachin_Portfolio/">Visit My Portfolio</a> | 💼 Full-Stack Python Developer | 💡 AI Enthusiast
-</p>
+<div align="center">
 
----
+![GitHub Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sachin%20Bodke&fontSize=60&fontAlignY=35&animation=fadeIn)
 
-### 🚀 About Me
+**Data Analyst | Python Developer | SQL Specialist | Power BI Expert**
 
-I'm a passionate **Full-Stack Python Developer** who loves transforming ideas into powerful digital solutions.  
-I focus on building intelligent, scalable, and user-friendly applications that make a real impact.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bodkesachin7979.github.io/Sachin_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinbodke/)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinbodke7979@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BodkeSachin7979)
 
-- 🔭 Currently working on: **AI-powered real-time systems**
-- 🌱 Learning: **Advanced Flask, WebSockets, Tailwind CSS, and MLOps**
-- 💬 Ask me about: **Python, Flask, React, Machine Learning, and Full-Stack Development**
-- 🎯 Goal: To become an **industry-ready AI & Full-Stack Engineer**
-- ⚡ Fun fact: I love exploring new technologies, fitness, and traveling to peaceful destinations 🌍
+</div>
 
----
+## 📊 Professional Summary
 
-### 🧠 Tech Stack
+> *Transforming raw data into actionable insights through advanced analytics, visualization, and automation*
 
-#### 💻 Languages
-`Python` `JavaScript` `HTML` `CSS` `SQL`
-
-#### 🧩 Frameworks & Libraries
-`Flask` `React` `Tailwind CSS` `Bootstrap` `OpenCV` `TensorFlow` `Scikit-learn`
-
-#### 🗄️ Databases
-`PostgreSQL` `MongoDB` `SQLite`
-
-#### 🧰 Tools & Platforms
-`Git` `GitHub` `Docker` `VS Code` `PyCharm` `Firebase` `AWS`
+Data Analyst skilled in **SQL, Python (Pandas), Power BI, and EDA**, with proven ability to turn complex datasets into clear insights, interactive dashboards, and automated workflows. Experienced in data cleaning, visualization, SQL optimization, reporting, and building Flask-based data applications. Strong blend of analytics and backend development skills enabling end-to-end solutions from analysis to deployment.
 
 ---
 
-### 💡 Featured Projects
+## 🛠 Technical Stack
 
-#### 🧬 **1. Liver Cancer Detection (AI + Flask)**
-An AI-powered diagnostic web app that predicts liver cancer probability using medical attributes and ML models.
-- 🧠 Technologies: Flask, Python, Scikit-learn, HTML/CSS
-- ⚙️ Features: Data preprocessing, model prediction, interactive UI
-- 📂 [View Project Repository](#)
+### **Data Analysis & Visualization**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+### **Databases & SQL**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🧠 **2. Face Recognition System (Flask + FaceNet)**
-A smart authentication system using **FaceNet embeddings** for real-time identity verification.
-- 🔒 Technologies: Flask, OpenCV, FaceNet, SQLite, SQLAlchemy
-- 📸 Features: Live webcam capture, face embeddings, access verification, admin dashboard
-- 📂 [View Project Repository](#)
+### **Business Intelligence**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
----
-
-#### 🗺️ **3. Tourister Guide (AI + Flask + Google Maps API)**
-An intelligent travel assistant that recommends places, plans itineraries, and provides weather & budget insights.
-- 🧭 Technologies: Flask, REST API, Google Maps API, Tailwind CSS
-- 💡 Features: Smart recommendations, real-time distance calculator, budget planner
-- 📂 [View Project Repository](#)
-
----
-
-### 🌟 Portfolio Highlights
-
-| Category | Description |
-|-----------|--------------|
-| 🎨 Frontend | Responsive and elegant UI with Tailwind CSS |
-| ⚙️ Backend | RESTful Flask APIs with secure authentication |
-| 🧩 Database | Integrated SQL & NoSQL for flexible data management |
-| 🔐 Security | JWT authentication, validation, and access control |
-| ☁️ Deployment | Dockerized and hosted on GitHub Pages / AWS |
+### **Development & Tools**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 📫 Connect With Me
+## 🎯 Featured Projects
 
-<p align="center">
-  <a href="mailto:sachinbodke7979@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sachinbodke/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/BodkeSachin7979"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-### 🏆 Achievements & Goals
-
-- ✅ Built multiple **AI + Full Stack Projects**  
-- 🧑‍💻 Intern @ **Sciatus Research** as a Python Developer  
-- 🚀 Constantly improving in **AI Systems, Web Apps, and Automation**  
-- 📚 Working on becoming a **Tech Mentor & Open Source Contributor**
-
----
-
-### 💬 Personal Quote
-
-> “Every line of code I write brings an idea to life — one project at a time.” ⚡
+### 📊 **Netflix Data Analysis** | SQL Analytics
+*Comprehensive analytical case study using advanced SQL techniques*
+```sql
+-- Example: Advanced window functions and CTEs
+WITH ranked_content AS (
+    SELECT 
+        title,
+        type,
+        release_year,
+        RANK() OVER (PARTITION BY type ORDER BY release_year DESC) as recency_rank
+    FROM netflix_titles
+)
+SELECT * FROM ranked_content WHERE recency_rank <= 5;
+```
+**🔧 Technologies:** PostgreSQL, Window Functions, CTEs, String Parsing  
+**📈 Insights:** Content trends, release patterns, genre analysis
 
 ---
 
-⭐ **If you like my portfolio or projects, don’t forget to give them a star!** ⭐  
-📍 _Made with ❤️ by [Sachin Bodke](https://bodkesachin7979.github.io/Sachin_Portfolio/)_
+### 📈 **Sales Analytics Dashboard** | Power BI
+*Interactive sales reporting with comprehensive business metrics*
+- **DAX Measures & KPIs**: Revenue growth, YoY comparison, regional performance
+- **Interactive Features**: Drill-down capabilities, slicers, filters
+- **Visual Analytics**: Geographic mapping, trend analysis, performance indicators
+
+**🛠 Tools:** Power BI, DAX, Data Modeling  
+**📊 Output:** Executive dashboards, sales performance reports
+
+---
+
+### 🔍 **Retail Customer EDA** | Python Pandas
+*Comprehensive exploratory data analysis for customer segmentation*
+```python
+# Customer segmentation analysis
+customer_segments = df.groupby('segment').agg({
+    'purchase_amount': ['mean', 'count', 'sum'],
+    'frequency': 'mean'
+}).round(2)
+```
+**📋 Analysis:** Data cleaning, outlier detection, behavioral patterns  
+**🔬 Techniques:** Statistical analysis, clustering, correlation studies
+
+---
+
+## 🧪 Development Projects
+
+### 🤖 **Face Recognition System**
+- Real-time face detection and recognition
+- FaceNet model implementation
+- Live video processing capabilities
+
+### 🏥 **Liver Cancer Prediction App**
+- Machine learning classification model
+- Flask web application deployment
+- Medical data processing and analysis
+
+### 🗺 **Tourister Guide**
+- Google Maps API integration
+- Location-based services
+- Interactive travel planning
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+### 🏆 Achievement Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BodkeSachin7979&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=15)
+
+### 📊 Activity Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BodkeSachin7979&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BodkeSachin7979&layout=compact&theme=radical&hide_border=true)
+
+### 🔄 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BodkeSachin7979&theme=react-dark&hide_border=true&area=true)
+
+### 🐍 Contribution Snake
+![Contribution Snake](https://github.com/BodkeSachin7979/BodkeSachin7979/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+<div align="center">
+
+| Domain | Skills in Progress |
+|--------|-------------------|
+| **📊 Advanced SQL** | Window Functions, Query Optimization, Performance Tuning |
+| **📈 Power BI** | Advanced DAX, Dashboard Design, Data Modeling |
+| **🤖 Python Automation** | Scripting, Workflow Automation, ETL Pipelines |
+| **🌐 Flask APIs** | RESTful Services, Data Applications, Deployment |
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://bodkesachin7979.github.io/Sachin_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/sachinbodke/)
+[![Email](https://img.shields.io/badge/📧_sachinbodke7979@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:sachinbodke7979@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/BodkeSachin7979)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **Turning Data into Decisions** ⚡
+
+*"In God we trust, all others must bring data" - W. Edwards Deming*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
+
+---
+
+## 📋 Repository Structure
+```
+Sachin_Portfolio/
+│
+├── 📊 Data_Analysis_Projects/
+│   ├── netflix-analysis/
+│   ├── sales-analytics/
+│   └── customer-eda/
+│
+├── 🤖 ML_Development/
+│   ├── face-recognition/
+│   ├── cancer-prediction/
+│   └── tourister-guide/
+│
+├── 📚 Learning_Resources/
+│   ├── sql-practice/
+│   ├── python-scripts/
+│   └── power-bi-dashboards/
+│
+└── 🛠 Utilities/
+    ├── automation-scripts/
+    ├── data-processing/
+    └── api-integrations/
+```
+
+---
+
+*Last Updated: ${new Date().toLocaleDateString()}*
+
+---
+
+This portfolio showcases a professional, visually appealing GitHub profile that highlights your data analytics expertise while maintaining excellent readability and organization. The design incorporates modern GitHub badges, clear section separations, and engaging visual elements to make your profile stand out to recruiters and collaborators.
