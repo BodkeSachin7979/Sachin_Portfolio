@@ -127,7 +127,7 @@ customer_segments = df.groupby('segment').agg({
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BodkeSachin7979&theme=react-dark&hide_border=true&area=true)
 
 ### 🐍 Contribution Snake
-![Contribution Snake](https://github.com/BodkeSachin7979/BodkeSachin7979/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/BodkeSachin7979/BodkeSachin7979/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -146,8 +146,32 @@ customer_segments = df.groupby('segment').agg({
 
 </div>
 
+## 📋 Repository Structure
+```
+BodkeSachin7979/
+│
+├── 📊 Data-Analytics/
+│   ├── Netflix-Data-Analysis-Project
+│   ├── Sales-Data-Analysis-Power-BI
+│   └── Customer-Shopping-Trends-Analysis
+│
+├── 🤖 Machine-Learning/
+│   ├── Face-Recognition-Attendance-System
+│   └── Liver-Cancer-Prediction
+│
+├── 🌐 Web-Applications/
+│   ├── Tourister-Guide
+│   └── Sachin_Portfolio
+│
+├── 📚 Learning-Practice/
+│   ├── SQL-Practice
+│   └── Python-Programming
+│
+└── 🔧 Utilities-Templates/
+    ├── (Future: Data processing templates)
+    └── (Future: Analysis boilerplates)
+```
 ---
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -156,10 +180,7 @@ customer_segments = df.groupby('segment').agg({
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/sachinbodke/)
 [![Email](https://img.shields.io/badge/📧_sachinbodke7979@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:sachinbodke7979@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/BodkeSachin7979)
-
 </div>
-
----
 
 <div align="center">
 
@@ -172,36 +193,3 @@ customer_segments = df.groupby('segment').agg({
 </div>
 
 ---
-
-## 📋 Repository Structure
-```
-Sachin_Portfolio/
-│
-├── 📊 Data_Analysis_Projects/
-│   ├── netflix-analysis/
-│   ├── sales-analytics/
-│   └── customer-eda/
-│
-├── 🤖 ML_Development/
-│   ├── face-recognition/
-│   ├── cancer-prediction/
-│   └── tourister-guide/
-│
-├── 📚 Learning_Resources/
-│   ├── sql-practice/
-│   ├── python-scripts/
-│   └── power-bi-dashboards/
-│
-└── 🛠 Utilities/
-    ├── automation-scripts/
-    ├── data-processing/
-    └── api-integrations/
-```
-
----
-
-*Last Updated: ${new Date().toLocaleDateString()}*
-
----
-
-This portfolio showcases a professional, visually appealing GitHub profile that highlights your data analytics expertise while maintaining excellent readability and organization. The design incorporates modern GitHub badges, clear section separations, and engaging visual elements to make your profile stand out to recruiters and collaborators.
